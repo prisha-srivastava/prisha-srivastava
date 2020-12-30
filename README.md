@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner (2)](https://user-images.githubusercontent.com/63402702/103351572-b1fd9500-4ac9-11eb-991c-cef04acf031f.png)
-<p align='left'>
+![readmebanner](https://user-images.githubusercontent.com/63402702/103355279-e0806d80-4ad3-11eb-9486-13bdb2b8a91a.png)
 <h3><b> Hey there! I'm Prisha Srivastava </h3></b>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
