@@ -1,6 +1,6 @@
 
 ![readmebanner](https://user-images.githubusercontent.com/63402702/103355279-e0806d80-4ad3-11eb-9486-13bdb2b8a91a.png)
-<h3><b>⭐ Hey! I'm Prisha Srivastava ⭐</h3></b>
+<h3><b> Hey! I'm Prisha Srivastava </h3></b>
 
 
 <h3 align="left">Tools and Languages I have worked with -> </h3>
