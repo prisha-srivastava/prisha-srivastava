@@ -26,9 +26,7 @@ ________________________________________________________________________________
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prisha-srivastava&show_icons=true&locale=en&theme=chartreuse-dark&hide=issues,stars&count_private=true" alt="prisha-srivastava" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisha-srivastava&layout=compact&theme=dark" alt="top-languages used"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prisha-srivastava&show_icons=true&locale=en&theme=default&hide=issues,stars&count_private=true" alt="prisha-srivastava" /></p>
 
 <h2>Reach out to me on-</h2> 
 <p align="left">
