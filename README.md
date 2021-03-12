@@ -1,5 +1,5 @@
 
-<h2><b> Hi 👋,I'm Prisha Srivastava</h2></b>
+<h2><b> Hi,I'm Prisha Srivastava !</h2></b>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisha-srivastava.prisha-srivastava)
@@ -13,7 +13,7 @@ ________________________________________________________________________________
 - 💻 All of my projects are available at my [Github](https://github.com/prisha-srivastava?tab=repositories)
 - 💻Check my [Portfolio] website here.
 </p>
-<h2 align="left">⚡️ Technologies I have worked on-</h2>
+<h2 align="left"> Technologies I have worked -</h2>
 <p align="left">
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -27,11 +27,11 @@ ________________________________________________________________________________
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prisha-srivastava&show_icons=true&locale=en&theme=radical&hide=issues,stars&count_private=true" alt="prisha-srivastava" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prisha-srivastava&show_icons=true&locale=en&theme=chartreuse-dark&hide=issues,stars&count_private=true" alt="prisha-srivastava" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prisha-srivastava&layout=compact&theme=dark" alt="top-languages used"/></p>
 
-<h2>Reach out to me on</h2> 
+<h2>Reach out to me on-</h2> 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/prisha-srivastava/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:prishas.2501@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
