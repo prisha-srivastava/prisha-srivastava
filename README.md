@@ -13,7 +13,7 @@ ________________________________________________________________________________
 - 💻 All of my projects are available at my [Github](https://github.com/prisha-srivastava?tab=repositories)
 - 💻Check my [Portfolio] website here.
 </p>
-<h2 align="left"> Technologies I have worked -</h2>
+<h2 align="left"> Technologies I have worked with -</h2>
 <p align="left">
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
