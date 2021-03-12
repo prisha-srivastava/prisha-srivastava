@@ -6,9 +6,8 @@
 [![Repos Badge](https://badges.pufler.dev/repos/prisha-srivastava)](https://badges.pufler.dev)
 
 __________________________________________________________________________________________________________________________________________________________________
-<h3 align="left">Front End Developer 💻 | Data Science Enthusiast</h3>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/3fAd0w8.gif" width="300px" border-radius="50px" />
+
 <p align="left"> 
  
 - 💻 All of my projects are available at my [Github](https://github.com/prisha-srivastava?tab=repositories)
