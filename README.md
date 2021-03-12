@@ -1,6 +1,6 @@
 
 <h2><b> Hi 👋,I'm Prisha Srivastava</h2></b>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisha-srivastava.prisha-srivastava)
 [![Repos Badge](https://badges.pufler.dev/repos/prisha-srivastava)](https://badges.pufler.dev)
