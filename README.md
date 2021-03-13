@@ -9,9 +9,7 @@ ________________________________________________________________________________
 
 <p align="left"> 
  
-- 💻 All of my projects are available at my [Github](https://github.com/prisha-srivastava?tab=repositories)
-- 💻Check my [Portfolio] website here.
-</p>
+- 💻 Check out my projects here at [Github](https://github.com/prisha-srivastava?tab=repositories)
 <h2 align="left"> Technologies I have worked with -</h2>
 <p align="left">
  
