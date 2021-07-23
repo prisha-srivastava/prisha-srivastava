@@ -1,8 +1,15 @@
 
-<h3 align="center"> Hi,I'm Prisha Srivastava ❄️</h3>
+<h2 align="center"> Hi, I'm Prisha Srivastava ❄️</h2>
+<br>
+<p align="center">
+ <a href="">
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=prisha-srivastava.prisha-srivastava"/>
+ </a>
+ <a href="">
+ <img src="https://badges.pufler.dev/repos/prisha-srivastava"/>
+ </a>
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prisha-srivastava.prisha-srivastava)
-[![Repos Badge](https://badges.pufler.dev/repos/prisha-srivastava)](https://badges.pufler.dev)
 
 __________________________________________________________________________________________________________________________________________________________________
 
